@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "version": "0.1.0",
+  "name": "Hakki",
+  "description": "Obtenha avaliações dos professores de suas proximas matérias e envie também suas avaliações.",
+  "author": "Julio Cesar, Pablo Felipe",
+  "action": {
+    "default_title": "Hakki",
+    "default_popup": "src/popup.html"
+  },
+  "permissions": ["scripting", "activeTab", "tabs", "storage"],
+  "icons": {
+    "16": "src/icons/icon.png",
+    "48": "src/icons/icon.png",
+    "128": "src/icons/icon.png"
+  }
+}
