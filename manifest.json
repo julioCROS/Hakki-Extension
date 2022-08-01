@@ -10,8 +10,8 @@
   },
   "permissions": ["scripting", "activeTab", "tabs", "storage"],
   "icons": {
-    "16": "src/icons/icon.png",
-    "48": "src/icons/icon.png",
-    "128": "src/icons/icon.png"
+    "16": "src/icons/logo.png",
+    "48": "src/icons/logo.png",
+    "128": "src/icons/logo.png"
   }
 }
