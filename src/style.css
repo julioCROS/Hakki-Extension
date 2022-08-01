@@ -3,7 +3,7 @@
 
 body {
   width: 250px;
-  background-color: #F0F0F0;
+  background-color: #F5F5F5;
 }
 
 .container {
@@ -16,7 +16,7 @@ a, a:visited, a:hover, a:active {
 }
 
 .title {
-  margin-top: -20px;
+  margin-top: -10px;
   font-size: 80px;
   font-family: 'Six Caps', sans-serif;
   font-weight: lighter;
@@ -113,6 +113,7 @@ input:checked + .slider:before {
 }
 
 .about { 
+  margin-top: 30px;
   font-size: 8px;
   text-align: center;
 }

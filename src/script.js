@@ -21,7 +21,9 @@ async function getData(url) {
     headers: {
       "Content-Type": "application/json",
     },
-  });
+  }).catch((err) => {
+    console.log(err);
+  })
   return response.json();
 }
 
