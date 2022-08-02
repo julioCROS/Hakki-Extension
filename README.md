@@ -1,3 +1,12 @@
+<p align = "center">
+<img width="170" src="https://github.com/julioCROS/Hakki-Extension/blob/main/images/hakki_title.png"></br>
+<img width="200" src="https://github.com/julioCROS/Hakki-Extension/blob/main/images/extension.png">
+</p>
+
+## Baixando a extensão
+
+## Utilizando a extensão
+
 ## Contribuindo com o projeto
 
 **1.** Primeiro, clone este projeto no diretório de sua preferência:
