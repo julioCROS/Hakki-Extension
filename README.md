@@ -12,5 +12,5 @@ https://github.com/julioCROS/Hakki-Extension/
 Com a extensão carregada agora você é capaz de editar o projeto a sua vontade, desde elaborar novos scripts, modificar a lógica existente nos scripts, etc. Caso queira subir para este repositório algumas novas funcionalidades criadas por você abra um [Pull Request](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 >Caso queira contribuir com o projeto, é interessante você passar pelos outros dois projetos ligado ao Sistema *Hakki*:
-> - [**Hakki Web**](https://github.com/julioCROS/Hakki-Web) - Interface Web para se comunicar com esta API ([**Hakki API**](https://github.com/julioCROS/Hakki-API)), cadastrando novos professores e acessando as avaliações enviadas de cada um dos professores cadastrados.
+> - [**Hakki Web**](https://github.com/julioCROS/Hakki-Web) - Interface Web para se comunicar com a API ([**Hakki API**](https://github.com/julioCROS/Hakki-API)), cadastrando novos professores e acessando as avaliações enviadas de cada um dos professores cadastrados.
 > - [**Hakki API**](https://github.com/julioCROS/Hakki-API) - API criada para armazenar os dados (professores e suas avaliações) enviadas a partir do site ([**Hakki Web**](https://github.com/julioCROS/Hakki-Web/)).
