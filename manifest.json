@@ -3,7 +3,7 @@
   "version": "1.2247448713",
   "name": "Hakki",
   "description": "Obtenha avaliações dos professores de suas proximas matérias e envie também suas avaliações.",
-  "author": "Julio Cesar",
+  "author": "Julio Cesar, Pablo Felipe",
   "action": {
     "default_title": "Hakki",
     "default_popup": "src/popup.html"
