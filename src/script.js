@@ -69,9 +69,9 @@ data.then(function (data) {
           else bg_media = nota_chaoticColor;
   
           html[i].innerHTML = html[i].innerHTML.replace(nomes[j], "<a target='_blank' rel='noopener noreferrer' href='https://hakki.vercel.app/docente/" + slugName(nomes[j]) +
-            "'>" + nomes[j] + "<div style='display: inline-flex;'><p style='background-color:"+ bg_qualidade +"; border: 1px solid"+ bg_qualidade +"; border-radius: 2px; padding: 2px; width: 28px; text-align:center; margin-left: 10px'>" + notasQualidade[j].toFixed(1) + "</p>"
-            + "<p style='background-color:"+ bg_facilitacao +"; border: 1px solid"+ bg_facilitacao +"; border-radius: 2px; padding: 2px; width: 28px; text-align:center; margin-left: 5px'>" + notasFacilitacao[j].toFixed(1) + "</p>"
-            + "<p style='background-color:"+ bg_media +"; border: 1px solid"+ bg_media +"; border-radius: 2px; padding: 2px; width: 28px; text-align:center; margin-left: 5px'>" + medias[j].toFixed(1) + "</p></div></a>");
+            "'>" + nomes[j] + "<div style='display: inline-flex';><p title='Qualidade' style='background-color:"+ bg_qualidade +"; border: 1px solid"+ bg_qualidade +"; border-radius: 2px; padding: 2px; width: 28px; text-align:center; margin-left: 10px'>" + notasQualidade[j].toFixed(1) + "</p>"
+            + "<p title='Facilidade' style='background-color:"+ bg_facilitacao +"; border: 1px solid"+ bg_facilitacao +"; border-radius: 2px; padding: 2px; width: 28px; text-align:center; margin-left: 5px'>" + notasFacilitacao[j].toFixed(1) + "</p>"
+            + "<p title='Média' style='background-color:"+ bg_media +"; border: 1px solid"+ bg_media +"; border-radius: 2px; padding: 2px; width: 28px; text-align:center; margin-left: 5px'>" + medias[j].toFixed(1) + "</p></div></a>");
           
         }
       }
