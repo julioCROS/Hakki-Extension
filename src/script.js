@@ -1,4 +1,4 @@
-const apiUrl = "https://hakki-api.herokuapp.com/professores";
+let apiUrl = "https://hakki-api.herokuapp.com/professores";
 
 const bg_goodColor = "#baffb8";
 const bg_neutralColor = "#fff2b8";
