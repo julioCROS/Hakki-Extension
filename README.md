@@ -22,7 +22,7 @@
 
 **4.** Para desligar a extensão e retirar o script injetado na página, clique novamente sobre o switch slider, isto fará com que a página seja recarregada. </br>
 
-> **Importante**: Caso esteja usando a extensão durante na página de matriculas, adicione as turmas selecionadas antes de desligar a extensão, pois como dito anteriormente, ao desligar a extensão, a página é recarregada.
+> **Importante**: Caso esteja usando a extensão na página de matriculas, adicione as turmas selecionadas antes de desligar a extensão, pois como dito anteriormente, ao desligar a extensão, a página é recarregada.
 
 Ao clicar na logo da extensão **`Hakki/학기`**, uma nova aba irá abrir, redirecionada ao sistema web de cadastro de nomes e avaliações. </br>
 Além disso ao clicar no ícone **`?`**, você será redirecionado(a) para está página/tutorial. <br/>
