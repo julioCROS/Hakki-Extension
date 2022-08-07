@@ -27,7 +27,7 @@
 Ao clicar na logo da extensão **`Hakki/학기`**, uma nova aba irá abrir, redirecionada ao sistema web de cadastro de nomes e avaliações. </br>
 Além disso ao clicar no ícone **`?`**, você será redirecionado(a) para está página/tutorial. <br/>
 
-Por fim, caso queira cadastrar um novo nome e/ou avaliação no sistema, utilize o [guia presente na página do sistema web](https://github.com/julioCROS/Hakki-Web).
+Por fim, caso queira cadastrar um novo nome e/ou avaliação no sistema, utilize o [**guia presente na página do sistema web**](https://github.com/julioCROS/Hakki-Web).
 
 ## Contribuindo com o projeto
 
