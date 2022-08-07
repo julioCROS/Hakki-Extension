@@ -7,11 +7,27 @@
 > A extensão foi testada e usada no **Google Chrome**, **Opera GX** e **Microsoft Edge**. Logo, o passo a passo abaixo pode ser seguido por qualquer um desses três navegadores. Para o navegador Mozila Firefox, você pode tentar seguir [este tutorial](https://olhardigital.com.br/2018/04/02/dicas-e-tutoriais/como-instalar-extensoes-do-navegador-chrome-no-firefox/) ensinando a instalar extensões da Chrome Web Store no Firefox.
 
 **1.** Entre na [página da extensão da Chrome Web Store](https://chrome.google.com/webstore?hl=pt-br). </br>
-**2.** Clique em **Usar no Chrome** (mesmo estando um dos outros dois navegadores apontados acima). </br>
+**2.** Clique em **`Usar no Chrome`** (mesmo estando um dos outros dois navegadores apontados acima). </br>
 **3.** Pronto, a extensão está pronta para o uso.
 
-
 ## Utilizando a extensão
+**1.** Acesse a página de [matriculas do SIGAA](https://sig.cefetmg.br/sigaa/graduacao/matricula/turmas_curriculo.jsf#) ou a página de [consulta de turmas](https://sig.cefetmg.br/sigaa/portais/discente/discente.jsf). </br>
+
+> Caso esteja na página de consulta de turmas, realize a consulta das turmas antes de ligar a extensão.
+
+**2.** Em uma das páginas apontadas acima, quando a página estiver totalmente carregada, ligue a extensão clicando sobre o switch slider. </br>
+**3.** O script será então injetado na página, mostrando respectivamente 3 notas ao lado do nome dos docentes: **Qualidade**, **Facilidade** e **Média** (entre Qualidade e Facilidade). 
+
+> Caso o docente não possua nenhuma avaliação, ao lado de seu nome, irá conter um texto informando-o(a) disso, e clicando sobre o texto, você abrirá uma nova aba que irá te redirecionar para a página do docente no sistema web, para que você possa cadastrar uma avaliação. Caso o nome do docente não esteja cadastrado no sistema, nenhuma das duas coisas descritas anteriormente aparecerá. </br>
+
+**4.** Para desligar a extensão e retirar o script injetado na página, clique novamente sobre o switch slider, isto fará com que a página seja recarregada. </br>
+
+> **Importante**: Caso esteja usando a extensão durante na página de matriculas, adicione as turmas selecionadas antes de desligar a extensão, pois como dito anteriormente, ao desligar a extensão, a página é recarregada.
+
+Ao clicar na logo da extensão **`Hakki/학기`**, uma nova aba irá abrir, redirecionada ao sistema web de cadastro de nomes e avaliações. </br>
+Além disso ao clicar no ícone **`?`**, você será redirecionado(a) para está página/tutorial. <br/>
+
+Por fim, caso queira cadastrar um novo nome e/ou avaliação no sistema, utilize o [guia presente na página do sistema web](https://github.com/julioCROS/Hakki-Web).
 
 ## Contribuindo com o projeto
 
