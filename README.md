@@ -1,12 +1,12 @@
 <p align = "center">
 <img width="170" src="https://github.com/julioCROS/Hakki-Extension/blob/main/images/hakki_title.png"></br>
-<img width="200" src="https://github.com/julioCROS/Hakki-Extension/blob/main/images/extension.png">
+<a href="https://chrome.google.com/webstore/detail/hakki/cfeknhlenfklocphhgfgnjagagdfpdkc?hl=pt-br"><img width="200" src="https://github.com/julioCROS/Hakki-Extension/blob/main/images/extension.png"></a>
 </p>
 
 ## Baixando a extensão
 > A extensão foi testada e usada no **Google Chrome**, **Opera GX** e **Microsoft Edge**. Logo, o passo a passo abaixo pode ser seguido por qualquer um desses três navegadores. Para o navegador Mozila Firefox, você pode tentar seguir [este tutorial](https://olhardigital.com.br/2018/04/02/dicas-e-tutoriais/como-instalar-extensoes-do-navegador-chrome-no-firefox/) ensinando a instalar extensões da Chrome Web Store no Firefox.
 
-**1.** Entre na [página da extensão da Chrome Web Store](https://chrome.google.com/webstore?hl=pt-br). </br>
+**1.** Entre na [página da extensão da Chrome Web Store](https://chrome.google.com/webstore/detail/hakki/cfeknhlenfklocphhgfgnjagagdfpdkc?hl=pt-br). </br>
 **2.** Clique em **`Usar no Chrome`** (mesmo estando um dos outros dois navegadores apontados acima). </br>
 **3.** Pronto, a extensão está pronta para o uso.
 
