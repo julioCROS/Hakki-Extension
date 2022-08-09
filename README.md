@@ -10,6 +10,9 @@
 **2.** Clique em **`Usar no Chrome`** (mesmo estando um dos outros dois navegadores apontados acima). </br>
 **3.** Pronto, a extensão está pronta para o uso.
 
+</br>
+</br>
+
 ## Utilizando a extensão
 **1.** Acesse a página de [matriculas do SIGAA](https://sig.cefetmg.br/sigaa/graduacao/matricula/turmas_curriculo.jsf#) ou a página de [consulta de turmas](https://sig.cefetmg.br/sigaa/portais/discente/discente.jsf). </br>
 
@@ -24,6 +27,9 @@ Ao clicar na logo da extensão **`Hakki/학기`**, uma nova aba irá abrir, redi
 Além disso ao clicar no ícone **`?`**, você será redirecionado(a) para está página/tutorial. <br/>
 
 Por fim, caso queira cadastrar um novo nome e/ou avaliação no sistema, utilize o [**guia presente na página do sistema web**](https://github.com/julioCROS/Hakki-Web).
+
+</br>
+</br>
 
 ## Contribuindo com o projeto
 
