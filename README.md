@@ -20,10 +20,6 @@
 
 > Caso o docente não possua nenhuma avaliação, ao lado de seu nome, irá conter um texto informando-o(a) disso, e clicando sobre o texto, você abrirá uma nova aba que irá te redirecionar para a página do docente no sistema web, para que você possa cadastrar uma avaliação. Caso o nome do docente não esteja cadastrado no sistema, nenhuma das duas coisas descritas anteriormente aparecerá. </br>
 
-**4.** Para desligar a extensão e retirar o script injetado na página, clique novamente sobre o switch slider, isto fará com que a página seja recarregada. </br>
-
-> **Importante**: Caso esteja usando a extensão na página de matriculas, adicione as turmas selecionadas antes de desligar a extensão, pois como dito anteriormente, ao desligar a extensão, a página é recarregada.
-
 Ao clicar na logo da extensão **`Hakki/학기`**, uma nova aba irá abrir, redirecionada ao sistema web de cadastro de nomes e avaliações. </br>
 Além disso ao clicar no ícone **`?`**, você será redirecionado(a) para está página/tutorial. <br/>
 
