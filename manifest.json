@@ -8,7 +8,7 @@
     "default_title": "Hakki",
     "default_popup": "src/popup.html"
   },
-  "permissions": ["scripting", "activeTab", "tabs", "storage"],
+  "permissions": ["scripting", "activeTab", "storage"],
   "icons": {
     "16": "src/icons/logo.png",
     "48": "src/icons/logo.png",
