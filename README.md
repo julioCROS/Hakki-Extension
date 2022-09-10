@@ -11,7 +11,6 @@
 **3.** Pronto, a extensão está pronta para o uso.
 
 </br>
-</br>
 
 ## Utilizando a extensão
 **1.** Acesse a página de [matriculas do SIGAA](https://sig.cefetmg.br/sigaa/graduacao/matricula/turmas_curriculo.jsf#) ou a página de [consulta de turmas](https://sig.cefetmg.br/sigaa/portais/discente/discente.jsf). </br>
@@ -28,7 +27,6 @@ Além disso ao clicar no ícone **`?`**, você será redirecionado(a) para está
 
 Por fim, caso queira cadastrar um novo nome e/ou avaliação no sistema, utilize o [**guia presente na página do sistema web**](https://github.com/julioCROS/Hakki-Web).
 
-</br>
 </br>
 
 ## Contribuindo com o projeto
@@ -47,3 +45,15 @@ Com a extensão carregada, agora você é capaz de editar o projeto a sua vontad
 >Caso queira contribuir com o projeto, é interessante você passar pelos outros dois projetos ligado ao Sistema Hakki:
 > - [**Hakki Web**](https://github.com/julioCROS/Hakki-Web) - Interface Web para se comunicar com a API ([**Hakki API**](https://github.com/julioCROS/Hakki-API)), cadastrando novos professores e avaliações, além de ser possivel acessar as avaliações enviadas para cada um dos professores cadastrados.
 > - [**Hakki API**](https://github.com/julioCROS/Hakki-API) - API criada para armazenar os dados (professores e suas avaliações) enviadas a partir do site ([**Hakki Web**](https://github.com/julioCROS/Hakki-Web/)).
+
+</br>
+
+## Capturas de tela
+Na pagina de matriculas ou de consultas de turmas, após ligar a extensão é possível ver as notas de cada um dos professores na página. As notas são apresentadas na seguinte ordem: **`Qualidade`**, **`Facilidade`** e **`Média Geral`** (Média entre Qualidade e Facilidade). Aos professores que não possuírem nenhuma avaliação cadastrada no momento, uma mensagem é exibida no lugar das notas.
+
+<kbd><img src="https://i.ibb.co/K6sNL4h/screenshoot-1.png"></br></kbd>
+
+
+
+
+
